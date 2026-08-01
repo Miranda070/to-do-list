@@ -1,13 +1,15 @@
-# Lista de Tarefas
+# To-Do List
 
-Projeto desenvolvido durante meus estudos de JavaScript.
+Project developed during my Javascript studies.
 
-## Funcionalidades
-- Adicionar tarefas
-- Remover tarefas
-- Listar tarefas
+## Features
 
-## Conceitos praticados
-- Funções
-- Arrays
-- Métodos push() e splice()
+* Add tasks
+* Remove tasks
+* List tasks
+
+## Concepts Practiced
+
+* Functions
+* Arrays
+* `push()` and `splice()` methods
